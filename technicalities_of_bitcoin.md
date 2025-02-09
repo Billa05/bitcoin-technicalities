@@ -1,3 +1,13 @@
+## Index
+
+1. [Cryptographic Hash Functions](#cryptographic-hash-functions)
+2. [Digital Signatures](#digital-signatures)
+3. [Bitcoin Addresses](#bitcoin-addresses)
+4. [Wallets](#wallets)
+5. [Transactions](#transactions)
+6. [Proof-of-Work](#proof-of-work)
+7. [Peer-to-Peer Network](#peer-to-peer-network)
+
 
 # Cryptographic Hash Functions
 
@@ -67,6 +77,7 @@
 - Cryptographic hash functions and digital signatures are fundamental to Bitcoin.
 - Understanding these concepts is crucial for grasping how Bitcoin achieves security and decentralization.
 
+---
 
 # Digital Signatures
 
