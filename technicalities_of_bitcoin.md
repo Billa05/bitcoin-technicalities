@@ -151,6 +151,8 @@
 - They play a **critical role in Bitcoin** by allowing users to sign transactions securely.  
 - Understanding **hashing and digital signatures** is fundamental to Bitcoin's security model.  
 
+---
+
 #  Bitcoin Addresses
 
 ## 1. Bitcoin Addresses: Purpose and Functionality
@@ -212,6 +214,8 @@
 - A **public key** is **hashed twice** (SHA-256 + RIPEMD-160) to create a **shorter identifier**.  
 - The **Base58Check encoding** process ensures that addresses include a **checksum**, preventing errors.  
 - These improvements make Bitcoin transactions **more private, secure, and user-friendly**.  
+
+---
 
 # Wallets
 
@@ -321,6 +325,8 @@
 - **Hardened derivation** ensures that even if some private keys are compromised, attackers cannot derive parent keys.  
 
 
+---
+
 # Transactions
 
 ## 1. Understanding Bitcoin Transactions  
@@ -394,6 +400,8 @@
 - Scripts define **spending conditions**, enabling features like multisig wallets.  
 - **P2SH allows more flexibility**, making complex conditions easier to implement.  
 - **Soft forks maintain backward compatibility**, allowing gradual protocol upgrades.  
+
+---
 
 # Proof-of-Work  
 
@@ -553,6 +561,8 @@
 ✅ **Transaction fees incentivize miners and will become the primary reward as block subsidies decrease**.  
 ✅ **Double spending is possible but impractical due to high costs**.
 
+
+---
 
 # Peer-to-Peer Network  
 
